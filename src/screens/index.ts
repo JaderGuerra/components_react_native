@@ -6,3 +6,4 @@ export * from './PullToRefresh';
 export * from './CustomSectionList';
 export * from './ModalScreen';
 export * from './InfiniteScrollScreen';
+export * from './SlidesScreen';

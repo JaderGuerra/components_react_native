@@ -41,6 +41,11 @@ const menuItems: MenuItems[] = [
     icon: "arrow-circle-o-down",
     component: "InfiniteScrollScreen",
   },
+  {
+    name: "Slides Screen",
+    icon: "stack-overflow",
+    component: "SlidesScreen",
+  },
 ];
 
 export const HomeScreen = () => {
