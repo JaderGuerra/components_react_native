@@ -7,3 +7,4 @@ export * from './CustomSectionList';
 export * from './ModalScreen';
 export * from './InfiniteScrollScreen';
 export * from './SlidesScreen';
+export * from './ChangeThemeScreen';
